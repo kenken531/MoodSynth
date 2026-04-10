@@ -1,0 +1,4 @@
+ollama
+sounddevice
+numpy
+scipy
